@@ -1,0 +1,16 @@
+bin
+.DS_Store
+*.output
+*.o
+.vscode/settings.json
+test.c
+prog
+a.out
+*.txt
+tmp/formative/*
+*.s
+tmp/
+*.bin
+*.ipch
+src/parser/*.tab.*
+src/lexer/*.yy.*
